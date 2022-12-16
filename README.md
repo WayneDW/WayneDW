@@ -1,4 +1,7 @@
-### Hi there 👋
+**Wei Deng** / [Homepage](https://waynedw.github.io/) / [Twitter](https://twitter.com/dwgreyman)
+
+
+I am a machine learning researcher and applied mathematician. I am quite interested in Monte Carlo methods, diffusion models, bandit, and reinforcement learning.
 
 <!--
 **WayneDW/WayneDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
