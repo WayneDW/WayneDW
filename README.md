@@ -3,6 +3,13 @@
 
 I am a machine learning researcher and applied mathematician. I am quite interested in Monte Carlo methods, diffusion models, bandit, and reinforcement learning.
 
+### Interesting links for me and for you
+
+- **[Machine Learning Research Blog - Francis Bach](https://francisbach.com/home/)**
+- **[Lil'Log](https://lilianweng.github.io/)**
+- **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
+- **[Contour Monte Carlo](https://waynedw.github.io/posts/CSGLD/)**
+- 
 <!--
 **WayneDW/WayneDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
