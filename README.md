@@ -18,7 +18,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 - **[Contour Samplers - Jax](https://github.com/blackjax-devs/blackjax)** provides a Jax implementaion of Contour samplers (ongoing...)
 
-- **[Non-reversible Parallel Tempering in DNN](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)** generalizes the **cyclical (cosine, etc) learning rates** in sampling frameworks. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
+- **[Non-reversible Parallel Tempering](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)** generalizes the **cyclical (cosine, etc) learning rates** in sampling frameworks. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
 
 
 
