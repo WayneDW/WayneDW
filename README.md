@@ -16,7 +16,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 - **[Contour Sampler](https://github.com/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics)** is the first Monte Carlo algorithm that achieves free-mode explorations in MNIST dataset [\[Demo\]](https://github.com/WayneDW/Interacting-Contour-Stochastic-Gradient-Langevin-Dynamics/blob/main/figures/ICSGLD_losses_path.gif); to my best knowledge, no other samplers can achieve this goal in this seemingly-basic task. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics?style=social">
 
-- **[Non-reversible Parallel Tempering in DNN](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)** generalizes the insights from **cyclical (cosine, etc) learning rate** in sampling frameworks. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
+- **[Non-reversible Parallel Tempering in DNN](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)** generalizes the **cyclical (cosine, etc) learning rates** in sampling frameworks. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
 
 - **[Contour Samplers - Jax](https://github.com/blackjax-devs/blackjax)** provides a Jax implementaion of Contour samplers (ongoing...)
 
