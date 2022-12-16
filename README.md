@@ -20,9 +20,9 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 - **[Contour Samplers - Jax](https://github.com/blackjax-devs/blackjax)** provides a Jax implementaion of Contour samplers (ongoing...)
 
-#### Applied Projects
+#### Application
 
-- **[NLP in Finance](https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction)** leverage sentiment analysis to predict stock price movement for each News information <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction?style=social">
+- **[NLP in Finance](https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction)** leverage sentiment analysis to predict stock price movement for each News headline <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction?style=social">
 
 - **[DeepLight](https://github.com/WayneDW/DeepLight_Deep-Lightweight-Feature-Interactions)** provides a SOTA for CTR prediction in Ad Serving [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-sparse-deep-factorization-machine-for/click-through-rate-prediction-on-criteo)](https://paperswithcode.com/sota/click-through-rate-prediction-on-criteo?p=a-sparse-deep-factorization-machine-for) <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/DeepLight_Deep-Lightweight-Feature-Interactions?style=social">
 
