@@ -14,11 +14,11 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 #### Research
 
-- **[Contour Sampler](https://github.com/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics)** is the first algorithm that achieves the real **free explorations and exploitations** in MNIST dataset [\[Demo\]](https://github.com/WayneDW/Interacting-Contour-Stochastic-Gradient-Langevin-Dynamics/blob/main/figures/ICSGLD_losses_path.gif); most other samplers cannot escape the high-energy barriers and can only do ''local optimization''. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics?style=social">
+- **[Contour Sampler](https://github.com/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics)** is the first algorithm that achieves the real **free explorations and exploitations** in MNIST dataset [\[Demo\]](https://github.com/WayneDW/Interacting-Contour-Stochastic-Gradient-Langevin-Dynamics/blob/main/figures/ICSGLD_losses_path.gif); most other samplers **cannot escape the high-energy barriers** and only optimize well locally. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics?style=social">
 
 - **[Contour Samplers - Jax](https://github.com/blackjax-devs/blackjax)** provides a Jax implementaion of Contour samplers (ongoing...)
 
-- **[Non-reversible Parallel Tempering](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)** generalizes the **cosine learning rates** in real sampling frameworks. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
+- **[Non-reversible Parallel Tempering](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)** generalizes the **cosine learning rates** in sampling frameworks and the swap path is more efficient due to the energy-adaptive schedule. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
 
 
 
