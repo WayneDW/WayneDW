@@ -1,7 +1,7 @@
 **Wei Deng** / [Homepage](https://waynedw.github.io/) / [Twitter](https://twitter.com/dwgreyman)
 
 
-I am a machine learning researcher. I am quite interested in Monte Carlo methods, diffusion models, bandit, and reinforcement learning.
+I am a machine learning researcher and applied mathematician. I am quite interested in Monte Carlo methods, diffusion models, bandit, and reinforcement learning.
 
 #### Links for me and for you
 
