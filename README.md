@@ -16,9 +16,9 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 - **[Contour Sampler](https://github.com/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics)** is the first algorithm that achieves the real **free explorations and exploitations** in MNIST dataset [\[Demo\]](https://github.com/WayneDW/Interacting-Contour-Stochastic-Gradient-Langevin-Dynamics/blob/main/figures/ICSGLD_losses_path.gif); most other samplers **cannot escape the high-energy barriers** and only optimize well locally. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics?style=social">
 
-- **[Contour Samplers - Jax](https://github.com/blackjax-devs/blackjax)** provides a JAX implementaion of Contour samplers (ongoing...)
+- **[Contour Samplers - JAX](https://blackjax-devs.github.io/blackjax/examples/contour_sgld.html)** provides a JAX implementaion of Contour samplers.
 
-- **[Non-reversible Parallel Tempering](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)** generalizes the **cosine learning rates** in sampling frameworks <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
+- **[Non-reversible Parallel Tempering](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)**: **cosine learning rates** work well in practice because it mimicks non-reversible parallel tempering <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
 
 
 
