@@ -18,7 +18,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 - **[Contour Samplers - JAX](https://blackjax-devs.github.io/blackjax/examples/contour_sgld.html)** provides a JAX implementaion of Contour samplers.
 
-- **[Non-reversible Parallel Tempering](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)**: **cosine learning rates** work well in practice because it mimicks non-reversible parallel tempering <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
+- **[Non-reversible Parallel Tempering](https://github.com/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation)**: cosine learning rates work well empirically because it mimics non-reversible parallel tempering <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WayneDW/Non-reversible-Parallel-Tempering-for-Deep-Posterior-Approximation?style=social">
 
 
 
