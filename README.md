@@ -11,6 +11,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Contour Samplers](https://waynedw.github.io/posts/CSGLD/)**
+- **[Greg](https://gregorygundersen.com/blog/)**
 
 #### Research
 
