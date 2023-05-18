@@ -12,6 +12,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Contour Samplers](https://waynedw.github.io/posts/CSGLD/)**
 - **[Greg](https://gregorygundersen.com/blog/)**
+- **[Sam Power](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
 - **[arg min](https://www.argmin.net/)**
 - **[Probably Approximately Wrong](https://www.branchini.fun/about)**
 
