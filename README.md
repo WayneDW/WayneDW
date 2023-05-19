@@ -5,19 +5,20 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 #### Links for me and for you
 
-- **[Sam Power](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
-- **[Greg](https://gregorygundersen.com/blog/)**
 - **[almost stochastic](https://www.almoststochastic.com/)**
-- **[inFERENCe](https://www.inference.vc/page/3/)**
-- **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
-- **[Machine Learning Research](https://francisbach.com/home/)**
-- **[Lil'Log](https://lilianweng.github.io/)**
-- **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
-- **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
-- **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
-- **[Contour Samplers](https://waynedw.github.io/posts/CSGLD/)**
 - **[arg min](https://www.argmin.net/)**
+- **[Contour Samplers](https://waynedw.github.io/posts/CSGLD/)**
+- **[Greg](https://gregorygundersen.com/blog/)**
+- **[inFERENCe](https://www.inference.vc/page/3/)**
+- **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
+- **[Lil'Log](https://lilianweng.github.io/)**
+- **[Machine Learning Research](https://francisbach.com/home/)**
+- **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Probably Approximately Wrong](https://www.branchini.fun/about)**
+- **[Sam Power](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
+- **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
+- **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
+
 
 #### Research
 
