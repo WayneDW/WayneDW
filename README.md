@@ -10,6 +10,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 - **[Contour Samplers](https://waynedw.github.io/posts/CSGLD/)**
 - **[Greg](https://gregorygundersen.com/blog/)**
 - **[inFERENCe](https://www.inference.vc/page/3/)**
+- **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
 - **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
 - **[Lil'Log](https://lilianweng.github.io/)**
 - **[Machine Learning Research](https://francisbach.com/home/)**
@@ -18,6 +19,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 - **[Sam Power](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
+
 
 
 #### Research
