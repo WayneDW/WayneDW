@@ -17,7 +17,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Probably Approximately Wrong](https://www.branchini.fun/about)**
 - **[Sam Power](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
-- **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)
+- **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
 
