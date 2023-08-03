@@ -12,6 +12,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 - **[inFERENCe](https://www.inference.vc/page/3/)**
 - **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
 - **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
+- **[Djalil Chafaï](https://djalil.chafai.net/blog/)**
 - **[Lil'Log](https://lilianweng.github.io/)**
 - **[Machine Learning Research](https://francisbach.com/home/)**
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
