@@ -5,6 +5,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 
 #### Links for me and for you
 
+- **[Andrej Risteski](https://www.andrew.cmu.edu/user/aristesk/)**
 - **[almost stochastic](https://www.almoststochastic.com/)**
 - **[arg min](https://www.argmin.net/)**
 - **[Contour Samplers](https://waynedw.github.io/posts/CSGLD/)**
