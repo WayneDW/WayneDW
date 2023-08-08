@@ -15,6 +15,7 @@ I am a machine learning researcher and applied mathematician. I am quite interes
 - **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
 - **[Djalil Chafaï](https://djalil.chafai.net/blog/)**
 - **[Lil'Log](https://lilianweng.github.io/)**
+- **[Ilya V. Schurov](https://ilya.schurov.com/)**
 - **[Machine Learning Research](https://francisbach.com/home/)**
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Probably Approximately Wrong](https://www.branchini.fun/about)**
