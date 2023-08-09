@@ -1,7 +1,9 @@
 **Wei Deng** / [Homepage](https://waynedw.github.io/) / [Twitter](https://twitter.com/dwgreyman)
 
 
-I am a machine learning researcher and applied mathematician. I am quite interested in Monte Carlo methods, Sequential Monte Carlo, diffusion models, and bandit problems.
+I am a machine learning researcher and applied mathematician. My aim is to advance probabilistic methods for safe and reliable AI across supervised, generative, and time series domains. 
+
+I am interested in Monte Carlo methods, Sequential Monte Carlo, diffusion models, and bandit problems.
 
 #### Links for me and for you
 
