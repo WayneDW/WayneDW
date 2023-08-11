@@ -24,6 +24,7 @@ I am interested in Monte Carlo methods, Sequential Monte Carlo, diffusion models
 - **[Sam Power](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
 - **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
+- **[VAIBHAV PATEL](https://vaipatel.com/)**
 - **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
 
 
