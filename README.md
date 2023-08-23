@@ -22,6 +22,7 @@ I am interested in Monte Carlo methods, Sequential Monte Carlo, diffusion models
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Probably Approximately Wrong](https://www.branchini.fun/about)**
 - **[Sam Power](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
+- **[Sander Dieleman (Diffusion Models)](https://sander.ai/)
 - **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
