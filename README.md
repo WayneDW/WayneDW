@@ -16,6 +16,7 @@ I am interested in Monte Carlo methods, diffusion models, neural SDE, and bandit
 - **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
 - **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
 - **[Djalil Chafaï](https://djalil.chafai.net/blog/)**
+- **[Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/)**
 - **[Lil'Log](https://lilianweng.github.io/)**
 - **[Ilya V. Schurov](https://ilya.schurov.com/)**
 - **[Machine Learning Research](https://francisbach.com/home/)**
