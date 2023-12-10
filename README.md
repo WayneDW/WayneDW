@@ -28,6 +28,7 @@ I am interested in Monte Carlo methods, diffusion models, neural SDE and filteri
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
 - **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
+- **[The Annotated S4](https://srush.github.io/annotated-s4/)**
 
 
 
