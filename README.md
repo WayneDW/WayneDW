@@ -29,6 +29,7 @@ I am interested in Monte Carlo methods, diffusion models, neural differential eq
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
 - **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
 - **[The Annotated S4](https://srush.github.io/annotated-s4/)**
+- **[Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)**
 
 
 
