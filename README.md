@@ -1,8 +1,6 @@
 **Wei Deng** / [Homepage](https://waynedw.github.io/) / [Twitter](https://twitter.com/dwgreyman)
 
 
-I am interested in Monte Carlo methods, diffusion models, neural differential equations, state-space models and filtering, and bandit problems.
-
 #### Links for me and for you
 
 - **[Andrej Risteski (Generative Model & MCMC)](https://www.andrew.cmu.edu/user/aristesk/)**
