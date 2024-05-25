@@ -29,6 +29,8 @@
 - **[The Annotated S4](https://srush.github.io/annotated-s4/)**
 - **[Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)**
 - **[KL Divergence](https://timvieira.github.io/blog/post/2014/10/06/kl-divergence-as-an-objective-function/)**
+- **[苏剑林 科学空间](https://kexue.fm/tag/attention/)**
+
 
 
 
