@@ -30,6 +30,7 @@
 - **[Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)**
 - **[KL Divergence](https://timvieira.github.io/blog/post/2014/10/06/kl-divergence-as-an-objective-function/)**
 - **[苏剑林 科学空间](https://kexue.fm/tag/attention/)**
+- **[紫气东来 LLM](https://zhuanlan.zhihu.com/p/640641794)**
 
 
 
