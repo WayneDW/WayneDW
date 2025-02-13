@@ -23,9 +23,9 @@
 - **[Sam Power (MCMC)](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
 - **[Sander Dieleman (Diffusion Models)](https://sander.ai/)**
 - **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)**
-- **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
+- **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
 - **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
 - **[The Annotated S4](https://srush.github.io/annotated-s4/)**
