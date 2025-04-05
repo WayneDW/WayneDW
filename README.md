@@ -6,7 +6,6 @@
 - **[Andrej Risteski (Generative Model & MCMC)](https://www.andrew.cmu.edu/user/aristesk/)**
 - **[almost stochastic](https://www.almoststochastic.com/)**
 - **[arg min](https://www.argmin.net/)**
-- **[Contour Samplers](https://waynedw.github.io/posts/CSGLD/)**
 - **[Greg](https://gregorygundersen.com/blog/)**
 - **[inFERENCe](https://www.inference.vc/page/3/)**
 - **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
