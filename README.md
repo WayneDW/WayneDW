@@ -26,6 +26,7 @@
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
 - **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
+- **[Shunyu Yao](https://ysymyth.github.io/blog/)**
 - **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
 - **[The Annotated S4](https://srush.github.io/annotated-s4/)**
 - **[Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)**
