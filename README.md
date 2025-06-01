@@ -22,6 +22,7 @@
 - **[Sam Power (MCMC)](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
 - **[Sander Dieleman (Diffusion Models)](https://sander.ai/)**
 - **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)**
+- **[Seita's Place](Going Deeper Into Reinforcement Learning: Fundamentals of Policy Gradients)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
 - **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
