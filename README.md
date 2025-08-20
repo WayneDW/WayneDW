@@ -17,6 +17,7 @@
 - **[LLM](https://aman.ai/primers/ai/LLM/)**
 - **[Ilya V. Schurov](https://ilya.schurov.com/)**
 - **[Machine Learning Research](https://francisbach.com/home/)**
+- **[Muon Optimizer - Keller Jordan](https://kellerjordan.github.io/posts/muon/)**
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Probably Approximately Wrong](https://www.branchini.fun/about)**
 - **[Sam Power (MCMC)](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
