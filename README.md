@@ -25,6 +25,7 @@
 - **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)**
 - **[Going Deeper Into RL: Fundamentals of Policy Gradients](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
+- **[Thinking Machines](https://thinkingmachines.ai/blog/)**
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
 - **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
