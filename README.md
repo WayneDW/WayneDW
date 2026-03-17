@@ -3,8 +3,6 @@
 
 #### Links for me and for you
 
-- **[Andrej Risteski (Generative Model & MCMC)](https://www.andrew.cmu.edu/user/aristesk/)**
-- **[almost stochastic](https://www.almoststochastic.com/)**
 - **[arg min](https://www.argmin.net/)**
 - **[Greg](https://gregorygundersen.com/blog/)**
 - **[inFERENCe](https://www.inference.vc/page/3/)**
