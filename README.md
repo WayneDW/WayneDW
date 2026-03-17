@@ -6,7 +6,6 @@
 - **[arg min](https://www.argmin.net/)**
 - **[inFERENCe](https://www.inference.vc/page/3/)**
 - **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
-- **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
 - **[Djalil Chafaï](https://djalil.chafai.net/blog/)**
 - **[Eric Jiang, Flow in JAX](https://blog.evjang.com/2019/07/nf-jax.html)**
 - **[Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/)**
