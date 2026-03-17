@@ -14,16 +14,10 @@
 - **[Muon Optimizer - Keller Jordan](https://kellerjordan.github.io/posts/muon/)**
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
 - **[Probably Approximately Wrong](https://www.branchini.fun/about)**
-- **[Sam Power (MCMC)](https://sites.google.com/view/sp-monte-carlo/blog-posts?authuser=0)**
 - **[Sander Dieleman (Diffusion Models)](https://sander.ai/)**
-- **[Sebastian's Slow Blog](https://www.nowozin.net/sebastian/blog/)**
-- **[Going Deeper Into RL: Fundamentals of Policy Gradients](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
-- **[Thinking Machines](https://thinkingmachines.ai/blog/)**
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
 - **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
-- **[VAIBHAV PATEL](https://vaipatel.com/)**
-- **[KL Divergence](https://timvieira.github.io/blog/post/2014/10/06/kl-divergence-as-an-objective-function/)**
 
 
 
