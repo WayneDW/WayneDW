@@ -23,9 +23,6 @@
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
 - **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
-- **[Shunyu Yao](https://ysymyth.github.io/blog/)**
-- **[The Annotated S4](https://srush.github.io/annotated-s4/)**
-- **[Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)**
 - **[KL Divergence](https://timvieira.github.io/blog/post/2014/10/06/kl-divergence-as-an-objective-function/)**
 
 
