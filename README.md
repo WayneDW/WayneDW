@@ -1,26 +1,6 @@
 **Wei Deng** / [Homepage](https://waynedw.github.io/) / [Twitter](https://twitter.com/dwgreyman)
 
 
-#### Links for me and for you
-
-- **[arg min](https://www.argmin.net/)**
-- **[inFERENCe](https://www.inference.vc/page/3/)**
-- **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
-- **[Djalil Chafaï](https://djalil.chafai.net/blog/)**
-- **[Lil'Log](https://lilianweng.github.io/)**
-- **[LLM](https://aman.ai/primers/ai/LLM/)**
-- **[Ilya V. Schurov](https://ilya.schurov.com/)**
-- **[Machine Learning Research](https://francisbach.com/home/)**
-- **[Muon Optimizer - Keller Jordan](https://kellerjordan.github.io/posts/muon/)**
-- **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
-- **[Sander Dieleman (Diffusion Models)](https://sander.ai/)**
-- **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
-- **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
-- **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
-
-
-
-
 <!--
 **WayneDW/WayneDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
