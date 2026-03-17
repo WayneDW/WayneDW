@@ -7,8 +7,6 @@
 - **[inFERENCe](https://www.inference.vc/page/3/)**
 - **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
 - **[Djalil Chafaï](https://djalil.chafai.net/blog/)**
-- **[Eric Jiang, Flow in JAX](https://blog.evjang.com/2019/07/nf-jax.html)**
-- **[Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/)**
 - **[Lil'Log](https://lilianweng.github.io/)**
 - **[LLM](https://aman.ai/primers/ai/LLM/)**
 - **[Ilya V. Schurov](https://ilya.schurov.com/)**
