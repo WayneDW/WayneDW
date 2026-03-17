@@ -13,7 +13,6 @@
 - **[Machine Learning Research](https://francisbach.com/home/)**
 - **[Muon Optimizer - Keller Jordan](https://kellerjordan.github.io/posts/muon/)**
 - **[Piecewise Deterministic Monte Carlo](https://diamweb.ewi.tudelft.nl/~joris/pdmps.html)**
-- **[Probably Approximately Wrong](https://www.branchini.fun/about)**
 - **[Sander Dieleman (Diffusion Models)](https://sander.ai/)**
 - **[The Information Structuralist](https://infostructuralist.wordpress.com/)**
 - **[Transformer Circuits Thread](https://transformer-circuits.pub/)**
