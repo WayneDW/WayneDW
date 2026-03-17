@@ -4,7 +4,6 @@
 #### Links for me and for you
 
 - **[arg min](https://www.argmin.net/)**
-- **[Greg](https://gregorygundersen.com/blog/)**
 - **[inFERENCe](https://www.inference.vc/page/3/)**
 - **[Inverse Probability - Neil Lawrence](https://inverseprobability.com/blog)**
 - **[I’m a bandit](https://blogs.princeton.edu/imabandit/2017/09/28/michael-b-cohen/)**
@@ -28,12 +27,9 @@
 - **[Tuan Anh Le](https://www.tuananhle.co.uk/)**
 - **[VAIBHAV PATEL](https://vaipatel.com/)**
 - **[Shunyu Yao](https://ysymyth.github.io/blog/)**
-- **[Yuling Yao's Blog](https://www.yulingyao.com/blog/)**
 - **[The Annotated S4](https://srush.github.io/annotated-s4/)**
 - **[Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)**
 - **[KL Divergence](https://timvieira.github.io/blog/post/2014/10/06/kl-divergence-as-an-objective-function/)**
-- **[苏剑林 科学空间](https://kexue.fm/tag/attention/)**
-- **[紫气东来 LLM](https://zhuanlan.zhihu.com/p/640641794)**
 
 
 
